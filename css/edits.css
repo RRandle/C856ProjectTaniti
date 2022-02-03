@@ -1,0 +1,38 @@
+fas fa-search{
+background-color: white;
+
+}
+
+#entertainmentHead {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-image: url(/assets/img/huladance.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  #foodHead {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-image: url(/assets/img/foodhome.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  #vacayHead {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-image: url(/assets/img/vacayhome.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  #aboutHead {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-image: url(/assets/img/abouthome.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
